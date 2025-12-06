@@ -4,11 +4,20 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# AWS Configuration
-AWS_REGION = os.getenv("AWS_DEFAULT_REGION", "us-west-2")
-AWS_ACCESS_KEY_ID = os.getenv("AWS_ACCESS_KEY_ID")
-AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY")
-AWS_SESSION_TOKEN = os.getenv("AWS_SESSION_TOKEN")  # For temporary credentials
+# Try to import streamlit for cloud deployment
+try:
+    import streamlit as st
+    # Use Streamlit secrets if available (for cloud deployment)
+    AWS_REGION = st.secrets.get("AWS_DEFAULT_REGION", "us-west-2")
+    AWS_ACCESS_KEY_ID = st.secrets.get("AWS_ACCESS_KEY_ID")
+    AWS_SECRET_ACCESS_KEY = st.secrets.get("AWS_SECRET_ACCESS_KEY")
+    AWS_SESSION_TOKEN = st.secrets.get("AWS_SESSION_TOKEN", None)
+except:
+    # Fall back to environment variables (for local development)
+    AWS_REGION = os.getenv("AWS_DEFAULT_REGION", "us-west-2")
+    AWS_ACCESS_KEY_ID = os.getenv("AWS_ACCESS_KEY_ID")
+    AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY")
+    AWS_SESSION_TOKEN = os.getenv("AWS_SESSION_TOKEN")  # For temporary credentials
 
 # Bedrock Models
 GENERATION_MODEL = "anthropic.claude-3-5-sonnet-20240620-v1:0"
