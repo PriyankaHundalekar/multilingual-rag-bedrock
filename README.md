@@ -49,6 +49,9 @@ AI for Bharat uses AWS Bedrock to provide:
 
 ## 🏗️ Architecture
 
+<img width="1498" height="1000" alt="image" src="https://github.com/user-attachments/assets/982c46d3-5dbe-4da6-96f1-aab9388e2012" />
+
+
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                    USER INTERFACE (Streamlit)               │
