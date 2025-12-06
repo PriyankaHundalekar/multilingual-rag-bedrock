@@ -1,0 +1,11 @@
+boto3
+streamlit
+pypdf
+python-docx
+python-pptx
+openpyxl
+pandas
+faiss-cpu
+python-dotenv
+numpy
+Pillow

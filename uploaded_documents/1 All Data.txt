@@ -1,0 +1,124 @@
+Finalized Universities:
+***Note: I have provided the name "Imperial" for some universities as they are in tie up.***
+username/email id: hundalekar13@gmail.com
+password: Qwertyuiop@123
+
+1) IIT Chicago 				
+Course: Data Science
+Link: https://apply.illinoistech.edu/account/login?r=https%3a%2f%2fapply.illinoistech.edu%2faccount%2flogin%3fcmd%3dsession_login
+
+2) Northeastern University			
+Course: Data Science
+Link: Imperial
+
+3) Stevens Institute of Technology		
+Course: Data Science
+Link: Imperial
+
+4) Syracuse University 			
+Course: Applied Data Science
+Link: https://graduate.admissions.go.syr.edu/account/login
+
+5) Univ of Massachusetts, Dartmouth 	
+Course: Data Science
+Link: https://apply.umassd.edu/account/login?r=https%3a%2f%2fapply.umassd.edu%2fapply%2f%3fsr%3d699e4c36-c16e-4769-81ed-922474bf9961%26_gl%3d1*usiuan*_gcl_au*MTU5MzA5MDI3MC4xNzM0MTA2Nzk1
+
+6) Univ of Texas, Arlington 		
+Course: Computer Science
+Link: https://connect.uta.edu/account/login?r=https%3a%2f%2fconnect.uta.edu%2fapply%2f%3fsr%3dbbdbb677-1e59-4216-86d7-0339f9829b22
+
+7) Univ of North Texas			
+Course: Data Science
+Link: https://unt2025.liaisoncas.com/applicant-ux/#/login
+
+8) Univ of Maryland, College Park 	
+Course: Data Science
+Link: https://terpengage.umd.edu/community/CustomLoginPage?GradApp=True
+
+9) SUNY Binghamton			
+Course: Computer Science
+Link: https://gograd.binghamton.edu/account/login
+
+10) Purdue University				
+Course: Computer Science
+Link: https://gradapply.purdue.edu/account/login?r=https%3a%2f%2fgradapply.purdue.edu%2fapply%2f%3futm_source%3dsidecontent%26utm_medium%3dbutton%26utm_campaign%3dapply-request-sidecontent%26_ga%3d2.2368560.1485967632.1737575209-2068521110.1734106020
+
+11) Arizona State University			
+Course: Computer Science
+Link: Imperial
+
+
+1) Personal Details
+First Name: Abhishek Mohan
+Last Name: Hundalekar
+Birthdate: 13-Jul-01
+Gender: Male
+Permanent Address: Rajani Classic, Flat No.105, S No 112, Plot No 19/20, Yerwada, Pune, 411006
+Mailing Address: Fl No-203, Sr No-17A, Pl No-11, Tushar Park Sai Pearl Appartment, 411015
+Phone number: +91 8766425067
+
+Emergency Contact Number: +91 9881121484
+Emergency Contact Email ID: mohan.hundalekar@gmail.com
+Emergency Contact's Relationship to You: Father
+
+2) Academic Qualifications	
+College Name: Ajeenkya D Y Patil University
+Degree Type: B Tech
+Majors: Computer Engineering
+CGPA: 8.9
+Address: DY Patil Knowledge City Road Via Lohgaon, Airport Rd, Charholi Budruk, Pune, Maharashtra 412105
+Start Date: 28-dec-2021
+End Date: 22-may-2024
+Graduation Date: 1-Feb-2025
+	
+College Name: Ajeenkya DY Patil School of Engineering
+Degree Type: Diploma
+Majors: Computer Engineering
+Percentage: 85.54%
+Address: Bk, Admission Cell, Dr. D. Y. Patil School of Engineering Charholi, Via, Lohegaon, Pune, Maharashtra 412105
+Start Date: 9-Aug-2019
+End Date: 22-May-2021
+Graduation Date: 31-Aug-2021
+
+3) Employment	
+Company Name: Tata Communications Limited
+Employment History: Python Internship
+Duration: 6 Months
+Address: Dighi, Pune, Maharashtra 411015
+Paid/Unpaid: Unpaid
+Start Date: 15-Jun-2023
+End Date: 14-Dec-2023
+
+4) Letter of Recommendation 
+LOR 1: 
+Name of the Referee: Dr. Vishal Shirsath
+Position: Associate Dean, CSE-School of Engineering
+Company Name: Ajeenkya D Y Patil University
+Email ID: vishal.shirsath@adypu.edu.in
+Please do not share your phone number.
+Contact Number: +91 9175828244
+Relationship: Mentor
+
+LOR 2:
+Name of the Referee:  Prof. Khushabu Trivedi
+Position: Assistant Professor, School of Engineering
+Company Name: Ajeenkya D Y Patil University
+Email ID: khushabu.trivedi@adypu.edu.in
+Please do not share your phone number.
+Contact Number: +91 6377683103
+Relationship: Professor
+
+LOR 3: 
+Name of the Referee:  Dr. Amol Kasture
+Position: Associate Professor, School of Engineering
+Company Name: Ajeenkya D Y Patil University
+Email ID: amol.kasture@adypu.edu.in
+Please do not share your phone number.
+Contact Number: +91 7276093835
+Relationship: Professor
+
+5) IELTS Score: 6.5
+Listening: 7.0
+Reading: 6.5
+Writing: 6.5
+Speaking: 6.0
