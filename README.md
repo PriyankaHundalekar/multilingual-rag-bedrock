@@ -340,20 +340,6 @@ ai-for-bharat-rag/
 
 ---
 
-## 🤝 Contributing
-
-Contributions welcome! Areas for improvement:
-- [ ] Add more document formats
-- [ ] Improve chunking strategies
-- [ ] Optimize performance
-- [ ] Add more languages
-- [ ] Build mobile app
-- [ ] Add authentication
-- [ ] Implement caching
-- [ ] Add analytics dashboard
-
----
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
