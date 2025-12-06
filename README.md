@@ -263,16 +263,6 @@ ai-for-bharat-rag/
 
 ---
 
-## 📚 Documentation
-
-- **[QUICK_START.md](QUICK_START.md)** - Get started in 5 minutes
-- **[BLOG_POST.md](BLOG_POST.md)** - Complete technical blog post
-- **[ARCHITECTURE.md](ARCHITECTURE.md)** - Detailed system architecture
-- **[DEMO_GUIDE.md](DEMO_GUIDE.md)** - How to demo the project
-- **[SUBMISSION_CHECKLIST.md](SUBMISSION_CHECKLIST.md)** - Submission requirements
-
----
-
 ## 🔐 Security
 
 - ✅ AWS IAM authentication
