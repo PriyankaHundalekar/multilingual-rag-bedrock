@@ -7,6 +7,9 @@
 
 Production-ready Retrieval-Augmented Generation (RAG) system built with AWS Bedrock, designed for India's multilingual landscape. Upload documents in any format and ask questions in 10+ Indian languages!
 
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/293f4108-cf80-48ed-a177-fdd50be14ea6" />
+
+
 ---
 
 ## 🌟 Highlights
